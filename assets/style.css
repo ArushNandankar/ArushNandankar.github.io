@@ -15,7 +15,7 @@ body {
 }
 
 .table {
-    border-radius: 15px; /* Adjust as needed */
+    border-radius: 20px; /* Adjust as needed */
     overflow: hidden; /* So that the border radius applies to the inner elements as well */
     background-color: lightgray; /* Changes the background color of the table to light gray */
 }
@@ -28,7 +28,7 @@ body {
 
 .table thead th {
     vertical-align: bottom;
-    border-bottom: 2px solid #dee2e6;
+    border-bottom: 2px solid black;
 }
 
 .table-bordered td,
